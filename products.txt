@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Botin tapones sinteticos",
+    "price": 18000,
+  },
+  {
+    "id": 2,
+    "name": "Pelota f5",
+    "price": 32000,
+  },
+  {
+    "id": 3,
+    "name": "Botin con tapon alto",
+    "price": 19800,
+  },
+]
